@@ -1,0 +1,10 @@
+body {
+  font-family: "Montserrat", sans-serif !important;
+}
+.bg1 {
+  background-image: url(../imges/Background-Header.webp);
+  background-size: cover;
+}
+.sh:hover {
+  box-shadow: 0 0px 0px 0 rgb(255 255 255 / 12%), 0 23px 23px 0 rgb(255 255 255 / 12%);
+}
